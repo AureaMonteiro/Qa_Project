@@ -1,0 +1,37 @@
+Tarefa 1 Operações aritméticas
+Uma sala de aula possui 30 alunos. Durante a aplicação de uma prova de matemática, foi constatado que apenas 20% dos alunos foram reprovados na matéria. Considerando essa informação:
+
+Calcule a quantidade de alunos reprovados na matéria e exiba esse valor;
+Calcule a quantidade de alunos aprovados e exiba.
+Tarefas extras (não são obrigatórias, porém recomendamos realizar para praticar mais) 
+Escreva um programa que converta a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
+Escreva um programa que calcule a média final de um aluno considerando 5 notas diferentes que ele obteve.
+Escreva um programa que ajude a calcular os descontos na Black Friday. Para isso, o programa deve considerar o valor inicial de um produto e seu desconto e, como resultado, escrever o novo valor do produto e o valor economizado.
+Escreva um programa que calcule o valor, em reais, correspondente aos dólares e euros que um turista possui. O programa deve considerar os seguintes dados: quantidade de dólares e euros, cotação do dólar e euro naquele dia.
+
+Tarefa 2 Condicionais
+Um novo filme estreou recentemente nos cinemas. Trata-se de uma animação, cuja classificação indicativa é de 14 anos. Estabeleça, via código, as seguintes condições:
+Identifica a idade do usuário interessado em assistir ao filme. Caso ele possua menos de 14 anos, ele deverá receber a mensagem “Pode entrar somente com acompanhante maior de idade.”;
+Caso ele possua idade maior ou igual a 14 anos, a mensagem exibida deverá ser “A idade informada corresponde a classificação indicativa. Bom filme!”.
+Tarefas extras (não são obrigatórias, porém recomendamos realizar para praticar mais) 
+Calcule a média aritmética das 4 notas de um aluno e mostre:
+1. valor da média
+2. uma mensagem de "Aprovado", caso a média seja igual ou superior a 7, ou a mensagem "reprovado", caso contrário.
+Escreva um programa que calcule o valor em reais, correspondente aos dólares OU euros que um turista possui. O programa deve considerar os seguintes dados: qual moeda o turista possui: dólares ou euros, quantidade, cotação da moeda naquele dia.
+Escreva um programa que considera como dados de entrada a altura e o sexo de uma pessoa (M ou F) e calcule seu peso ideal, utilizando as seguintes fórmulas:
+Masculino: PesoIdeal = 52 + (0.75 × (altura - 152.4)
+Feminino: PesoIdeal = 52 + (0.67 × (altura - 152.4)
+Uma empresa concederá um aumento de salário aos seus funcionários, variável de acordo com o cargo, conforme a lista abaixo. Faça um algoritmo que, baseado no salário atual e o cargo de um funcionário calcule o novo salário. Se o cargo do funcionário não estiver na lista, ele deverá, então, receber 40% de aumento. O resultado deve mostrar o salário antigo, o novo salário e a diferença.
+Gerente	5%
+Analista 10%
+Técnico	20%
+Tarefa 3 Loops
+Um usuário comum esteve calculando a quantidade de pontos necessários para concluir com excelência uma matéria em sua faculdade. Após a realização dessa conta, ele constatou que precisaria tirar no mínimo 8 em sua última prova. Sendo assim:
+Escreva um código que, ao identificar o valor referente a nota da  última prova do usuário e, enquanto a nota for menor que 8, peça para que o valor informado seja maior ou igual ao valor mínimo solicitado. 
+Tarefas extras (não são obrigatórias, porém recomendamos realizar para praticar mais) 
+Escreva um programa que, ao considerar a idade de 10 pessoas, calcule e mostre a quantidade de pessoas com idade maior ou igual a 18 anos
+Uma loja utiliza o código V para transação à vista e P para transação a prazo. Escreva um programa que, ao considerar o código e valor de 10 transações, calcule e mostre:
+o valor total das compras efetuadas
+o valor total das compras à vista 
+o valor total das compras a prazo
+Dica: podemos  inserir uma condicional dentro do loop.
